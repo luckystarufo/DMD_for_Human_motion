@@ -1,4 +1,4 @@
-#DMD_for_Human_motion
+# DMD_for_Human_Motion
 
 In this repo, we analyze the motion capture data using the so called Dynamic Mode Decomposition algorithm.
 
